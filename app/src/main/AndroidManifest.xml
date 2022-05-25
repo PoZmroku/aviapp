@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.awesome.aviapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.awesome.aviapp.deleting_flight_process"></activity>
+        <activity android:name="com.awesome.aviapp.Show_Ticket" />
+        <activity android:name="com.awesome.aviapp.Delete_Flight" />
+        <activity android:name=".email_generation" />
+        <activity android:name="com.awesome.aviapp.payment_portal" />
+        <activity android:name="com.awesome.aviapp.review_details" />
+        <activity android:name="com.awesome.aviapp.seat_selection" />
+        <activity android:name="com.awesome.aviapp.Passenger_Info" />
+        <activity android:name="com.awesome.aviapp.FlightDetails" />
+        <activity android:name="com.awesome.aviapp.Flight_Management_Admin" />
+        <activity android:name="com.awesome.aviapp.Selection_Of_Flight" />
+        <activity android:name="com.awesome.aviapp.FromTo" />
+        <activity android:name="com.awesome.aviapp.Get_Flight_Ticket" />
+        <activity android:name="com.awesome.aviapp.Delete_Flight_Ticket" />
+        <activity android:name="com.awesome.aviapp.Menu" />
+        <activity android:name="com.awesome.aviapp.Showing_Flights" />
+        <activity android:name="com.awesome.aviapp.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
