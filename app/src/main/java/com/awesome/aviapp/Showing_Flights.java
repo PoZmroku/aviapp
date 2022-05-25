@@ -59,7 +59,6 @@ public class Showing_Flights extends AppCompatActivity
                 {
                     Toast.makeText(Showing_Flights.this, "Select a VALID date", Toast.LENGTH_SHORT).show();
                 }
-
             }
         });
     }
@@ -89,7 +88,5 @@ public class Showing_Flights extends AppCompatActivity
                     return false;
             }
         }
-
     }
-
 }
