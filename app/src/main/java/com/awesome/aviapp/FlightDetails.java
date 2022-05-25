@@ -35,6 +35,8 @@ public class FlightDetails extends AppCompatActivity implements View.OnClickList
     private EditText price;
     private Button ADD;
 
+    /* check commit for git */
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
