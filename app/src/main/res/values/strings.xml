@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AviApp</string>
-    <string name="enter_password">Enter Password If Admin\n\nElse Press Enter</string>
+    <string name="enter_password">Введите пароль если вы админ\n\nПродолжить как пользователь Enter</string>
     <string name="b_1">1</string>
     <string name="b_2">2</string>
     <string name="b_3">3</string>
@@ -13,29 +13,29 @@
     <string name="enter">Enter</string>
     <string name="b_0">0</string>
     <string name="backspace">backspace</string>
-    <string name="book_a_new_ticket">Book A New Ticket</string>
-    <string name="delete_an_existing_ticket">Delete An Existing Ticket</string>
-    <string name="get_an_existing_ticket">Get an Existing Ticket</string>
-    <string name="select_the_date_of_travel">Select The Date Of Travel</string>
-    <string name="from">FROM</string>
-    <string name="to">TO</string>
+    <string name="book_a_new_ticket">Збронировать билет</string>
+    <string name="delete_an_existing_ticket">Удалить забронированный билет</string>
+    <string name="get_an_existing_ticket">Просмотреть забронированные билеты</string>
+    <string name="select_the_date_of_travel">Выберите дату вылета</string>
+    <string name="from">Пункт вылета</string>
+    <string name="to">Пункт прибытия</string>
     <string name="go">GO</string>
-    <string name="landing_time">Landing Time (HHMM)</string>
-    <string name="duration_of_flight">Duration Of Flight (In Minutes)</string>
-    <string name="price_per_seat">Price Per Seat (in RUB)</string>
-    <string name="name_of_flight_5_digits">Name Of Flight (5 digits)</string>
-    <string name="day">Day</string>
-    <string name="month">Month</string>
-    <string name="year">Year</string>
-    <string name="departure_time">Departure Time(HHMM)</string>
-    <string name="enter_flight_details">Enter Flight Details</string>
-    <string name="add_flight">ADD FLIGHT</string>
+    <string name="landing_time">Время посадки (HHMM)</string>
+    <string name="duration_of_flight">Продолжительность полета (в минутах)</string>
+    <string name="price_per_seat">Цена за место (в РУБ)</string>
+    <string name="name_of_flight_5_digits">Номер самолета (5 цифр)</string>
+    <string name="day">День</string>
+    <string name="month">Месяц</string>
+    <string name="year">Год</string>
+    <string name="departure_time">Время вылета(HHMM)</string>
+    <string name="enter_flight_details">Введите информацию</string>
+    <string name="add_flight">Добавить рейс</string>
     <string name="proceed_to_payment"> Enter Email Address </string>
-    <string name="add_a_flight">Add A Flight</string>
-    <string name="delete_a_flight">Delete A Flight</string>
+    <string name="add_a_flight">Добавить рейс</string>
+    <string name="delete_a_flight">Удалить рейс</string>
     <string-array name="class_flight">
-        <item>Economy Class</item>
-        <item>Business Class</item>
-        <item>First Class</item>
+        <item>Эконом класс</item>
+        <item>Бизнес класс</item>
+        <item>Первый класс</item>
     </string-array>
 </resources>
