@@ -13,7 +13,7 @@
     <string name="enter">Enter</string>
     <string name="b_0">0</string>
     <string name="backspace">backspace</string>
-    <string name="book_a_new_ticket">Збронировать билет</string>
+    <string name="book_a_new_ticket">Забронировать билет</string>
     <string name="delete_an_existing_ticket">Удалить забронированный билет</string>
     <string name="get_an_existing_ticket">Просмотреть забронированные билеты</string>
     <string name="select_the_date_of_travel">Выберите дату вылета</string>
